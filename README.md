@@ -29,18 +29,13 @@ I build modern web applications, intelligent Discord bots & open-source solution
 
 `TypeScript` `JavaScript` `Python` `React` `Node.js` `Discord.js` `HTML/CSS`
 
-## 📊 GitHub Stats
-
 ### 🎯 Current Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=furaxdev&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-</p>p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=furaxdev&theme=nightowl" alt="GitHub Streak Stats" />
-</p>p>
-    - ## 🎨 Featured Projects
-   
+  <img src="https://streak-stats.demolab.com?user=furaxdev&theme=shadow-blue&date_format=j%2Fn%5B%2FY%5D" width="500"/>
+</p>
+  - ## 🎨 Featured Projects
+ 
     - ### 💪 Islam-Pro
     - Advanced TypeScript project with modern architecture & production deployment
    
@@ -54,4 +49,13 @@ I build modern web applications, intelligent Discord bots & open-source solution
   - [🌐 Portfolio](https://furax-dev.onrender.com) | [📺 YouTube](https://youtube.com/@furax2204) | [💻 GitHub](https://github.com/furaxdev)
  
   - ---
+
+  ## 🐱 Fun Fact About Me
+
+  J'ADOOORE Les chats ;
+  <p align="center">
+      <img src="https://api.catboys.com/img" alt="Random Anime Cat" width="300" />
+  </p>
+
+  
   ✨ *Building awesome things, one commit at a time* ✨
