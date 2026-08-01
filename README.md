@@ -52,8 +52,7 @@ I build modern web applications, intelligent Discord bots & open-source solution
 
   J'ADOOORE Les chats ;
   <p align="center">
-      <img src="https://api.catboys.com/img" alt="Random Anime Cat" width="300" />
-  </p>
+<img src="https://cataas.com/cat" alt="Random Cat" width="300" />  </p>
 
   
   ✨ *Building awesome things, one commit at a time* ✨
