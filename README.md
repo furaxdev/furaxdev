@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=furaxdev&theme=shadow-blue&date_format=j%2Fn%5B%2FY%5D" width="500"/>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;TypeScript+%26+JavaScript;Discord+Bots+%26+Web+Solutions;Building+Cool+Stuff)](https://git.io/typing-svg)
 
 ---
@@ -34,21 +30,21 @@ I build modern web applications, intelligent Discord bots & open-source solution
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=furaxdev&theme=shadow-blue&date_format=j%2Fn%5B%2FY%5D" width="500"/>
 </p>
-  - ## 🎨 Featured Projects
+   ## 🎨 Featured Projects
  
-    - ### 💪 Islam-Pro
-    - Advanced TypeScript project with modern architecture & production deployment
+     ### 💪 Islam-Pro
+     Advanced TypeScript project with modern architecture & production deployment
    
-    - ### 🎮 FuraxBot
-    - Discord bot for moderation & community management ✅ ACTIVE
+     ### 🎮 FuraxBot
+     Discord bot for moderation & community management ✅ ACTIVE
    
-    - ### 🔍 entracte
-    - Open-source client for system auditing - cookieless, opt-in earning
+     ### 🔍 entracte
+     Open-source client for system auditing - cookieless, opt-in earning
    
-  - ## 🤝 Connect With Me
+   ## 🤝 Connect With Me
   - [🌐 Portfolio](https://furax-dev.onrender.com) | [📺 YouTube](https://youtube.com/@furax2204) | [💻 GitHub](https://github.com/furaxdev)
  
-  - ---
+---
 
   ## 🐱 Fun Fact About Me
 
