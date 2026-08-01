@@ -35,6 +35,10 @@ I build modern web applications, intelligent Discord bots & open-source solution
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=furaxdev&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
 </p>p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=furaxdev&theme=nightowl" alt="GitHub Streak Stats" />
+</p>p>
     - ## 🎨 Featured Projects
    
     - ### 💪 Islam-Pro
