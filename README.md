@@ -54,5 +54,15 @@ I build modern web applications, intelligent Discord bots & open-source solution
   <p align="center">
 <img src="https://cataas.com/cat" alt="Random Cat" width="300" />  </p>
 
+```
+     |\\_/|
+     ( o.o )
+      > ^ <
+     /|   |\
+    (_|   |_)
+
+    MIAOUUU~ 🎵
+```
+
   
   ✨ *Building awesome things, one commit at a time* ✨
