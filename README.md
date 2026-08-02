@@ -28,8 +28,8 @@ I build modern web applications, intelligent Discord bots & open-source solution
 ## 🎯 Current Stats
 
 <p align="center">
-  <img src="https://furaxdev-readme-stats.onrender.com/api/?username=furaxdev&show_icons=true&theme=shadow_blue&hide_border=true" height="230" />
-  <img src="https://furaxdev-readme-stats.onrender.com/api/top-langs?username=furaxdev&layout=compact&theme=shadow_blue&hide_border=true" height="230" />
+  <img src="https://furaxdev-readme-stats.onrender.com/api/?username=furaxdev&show_icons=true&theme=shadow_blue&hide_border=true" height="300" />
+  <img src="https://furaxdev-readme-stats.onrender.com/api/top-langs?username=furaxdev&layout=compact&theme=shadow_blue&hide_border=true" height="300" />
 </p>
 
 ## 🎨 Featured Projects
