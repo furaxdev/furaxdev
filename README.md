@@ -54,7 +54,7 @@ I build modern web applications, intelligent Discord bots & open-source solution
   <p align="center">
 <img src="https://cataas.com/cat" alt="Cat image" width="300" />  </p>
 
-<img src="https://furaxdev.github.io/furaxdev/dancing-cat.html" width="500"/>
+<iframe src="https://furaxdev.github.io/furaxdev/dancing-cat.html" width="500" height="400" style="border:none; border-radius:10px;"></iframe>
 
   
   ✨ *Building awesome things, one commit at a time* ✨
