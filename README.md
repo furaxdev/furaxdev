@@ -51,10 +51,18 @@ I build modern web applications, intelligent Discord bots & open-source solution
   ## 🐱 Fun Fact About Me
 
   I LOOOOVE CATS :3
-  <p align="center">
-<img src="https://cataas.com/cat" alt="Cat image" width="300" />  </p>
 
-<iframe src="https://furaxdev.github.io/furaxdev/dancing-cat.html" width="500" height="400" style="border:none; border-radius:10px;"></iframe>
+<table align="center">
+<tr>
+<td><img src="https://cataas.com/cat" width="280" alt="Cat image" /></td>
+<td align="center">
+  <a href="https://github.com/furaxdev/ascii-cat-svg"><img src="https://ascii-cat-svg.onrender.com/cat?colors=blue" alt="Sitting Cat" /></a><br/>
+  <a href="https://github.com/furaxdev/ascii-cat-svg"><img src="https://ascii-cat-svg.onrender.com/cat/sleep?colors=purple" alt="Sleeping Cat" /></a>
+</td>
+</tr>
+</table>
 
-  
-  ✨ *Building awesome things, one commit at a time* ✨
+<p align="center">
+  <img src="https://ascii-cat-svg.onrender.com/quote?colors=green" alt="Cat Fact" /><br/>
+  <img src="https://ascii-cat-svg.onrender.com/visits?colors=green" alt="Views" />
+</p>
