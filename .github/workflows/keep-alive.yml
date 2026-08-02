@@ -1,0 +1,15 @@
+name: Keep Render services awake
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping ascii-cat-svg
+        run: curl -sf -o /dev/null https://ascii-cat-svg.onrender.com/cat || true
+      - name: Ping furaxdev-readme-stats
+        run: curl -sf -o /dev/null "https://furaxdev-readme-stats.onrender.com/" || true
