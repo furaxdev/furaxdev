@@ -34,14 +34,14 @@ I build modern web applications, intelligent Discord bots & open-source solution
 ### 🎨 Featured Projects
    
  
-     ### 💪 Islam-Pro
-     Advanced TypeScript project with modern architecture & production deployment
+  ### 💪 Islam-Pro
+  Advanced TypeScript project with modern architecture & production deployment
    
-     ### 🎮 FuraxBot
-     Discord bot for moderation & community management ✅ ACTIVE
+  ### 🎮 FuraxBot
+  Discord bot for moderation & community management ✅ ACTIVE
    
-     ### 🔍 entracte
-     Open-source client for system auditing - cookieless, opt-in earning
+  ### 🔍 entracte
+  Open-source client for system auditing - cookieless, opt-in earning
    
    ## 🤝 Connect With Me
   - [🌐 Portfolio](https://furax-dev.onrender.com) | [📺 YouTube](https://youtube.com/@furax2204) | [💻 GitHub](https://github.com/furaxdev)
@@ -50,19 +50,11 @@ I build modern web applications, intelligent Discord bots & open-source solution
 
   ## 🐱 Fun Fact About Me
 
-  J'ADOOORE Les chats ;
+  I LOOOOVE CATS :3
   <p align="center">
-<img src="https://cataas.com/cat" alt="Random Cat" width="300" />  </p>
+<img src="https://cataas.com/cat" alt="Cat image" width="300" />  </p>
 
-```
-     |\\_/|
-     ( o.o )
-      > ^ <
-     /|   |\
-    (_|   |_)
-
-    MIAOUUU~ 🎵
-```
+![Dancing Cat](./dancing-cat.html)
 
   
   ✨ *Building awesome things, one commit at a time* ✨
