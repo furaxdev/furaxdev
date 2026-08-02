@@ -32,10 +32,6 @@ I build modern web applications, intelligent Discord bots & open-source solution
   <img src="https://furaxdev-readme-stats.onrender.com/api/top-langs?username=furaxdev&layout=compact&theme=shadow_blue&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=furaxdev&theme=shadow-blue&date_format=j%2Fn%5B%2FY%5D" width="500"/>
-</p>
-
 ## 🎨 Featured Projects
 
 ### 💪 Islam-Pro
