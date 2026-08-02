@@ -42,7 +42,7 @@ I build modern web applications, intelligent Discord bots & open-source solution
 Application islamique complète — horaires de prière, Coran, Qibla, Dhikr, calendrier hijri, hadiths, douas. Workspace Expo (iOS/Android/Web/Desktop) + API Hono en TypeScript. Site : [islam-pro.vercel.app](https://islam-pro.vercel.app)
 
 ### [entracte](https://github.com/furaxdev/entracte)
-Client open-source pour auditer ce qui tourne sur ta machine — cookieless, ne lit aucun code, gains opt-in.
+Gagne des crédits IA en affichant des messages sponsorisés pendant le temps de traitement de ton IA — zéro tracking, aucun accès au code. ([entracte.ai](https://entracte.ai)) — fork du client frontend, projet original par [mben-dev](https://github.com/mben-dev/entracte).
 
 ### [Le PoinCarré](https://github.com/furaxdev/LePoinCarre)
 Site vitrine et commande en ligne pour un restaurant : suivi de commande en temps réel, page certificat halal, dashboard admin. React + Express + Socket.io. Live : [le-poincare.onrender.com](https://le-poincare.onrender.com)
