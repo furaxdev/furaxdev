@@ -2,15 +2,15 @@
 
 ---
 
-# Hey there! 👋 I'm Furax Dev
+# Hey there! <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f44b.svg" width="24" height="24" valign="middle" alt="" /> I'm Furax Dev
 
-## 🚀 Full-Stack Developer | TypeScript | Web & Discord Bots
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f680.svg" width="22" height="22" valign="middle" alt="" /> Full-Stack Developer | TypeScript | Web & Discord Bots
 
 I build modern web applications, intelligent Discord bots & open-source solutions. Passionate about clean code & great UX!
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" width="22" height="22" valign="middle" alt="" /> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -25,31 +25,35 @@ I build modern web applications, intelligent Discord bots & open-source solution
 
 `TypeScript` `JavaScript` `Python` `React` `Node.js` `Discord.js` `HTML/CSS`
 
-## 🎯 Current Stats
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3af.svg" width="22" height="22" valign="middle" alt="" /> Current Stats
 
 <p align="center">
   <img src="https://furaxdev-readme-stats.onrender.com/api/?username=furaxdev&show_icons=true&theme=shadow_blue&hide_border=true" height="300" />
   <img src="https://furaxdev-readme-stats.onrender.com/api/top-langs?username=furaxdev&layout=compact&theme=shadow_blue&hide_border=true" height="300" />
 </p>
 
-## 🎨 Featured Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=furaxdev&theme=shadow-blue&date_format=j%2Fn%5B%2FY%5D" width="500"/>
+</p>
 
-### 💪 Islam-Pro
-Advanced TypeScript project with modern architecture & production deployment
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3a8.svg" width="22" height="22" valign="middle" alt="" /> Featured Projects
 
-### 🎮 FuraxBot
-Discord bot for moderation & community management ✅ ACTIVE
+### [Islam Pro](https://github.com/furaxdev/Islam-pro)
+Application islamique complète — horaires de prière, Coran, Qibla, Dhikr, calendrier hijri, hadiths, douas. Workspace Expo (iOS/Android/Web/Desktop) + API Hono en TypeScript. Site : [islam-pro.vercel.app](https://islam-pro.vercel.app)
 
-### 🔍 entracte
-Open-source client for system auditing - cookieless, opt-in earning
+### [entracte](https://github.com/furaxdev/entracte)
+Client open-source pour auditer ce qui tourne sur ta machine — cookieless, ne lit aucun code, gains opt-in.
 
-## 🤝 Connect With Me
+### [Le PoinCarré](https://github.com/furaxdev/LePoinCarre)
+Site vitrine et commande en ligne pour un restaurant : suivi de commande en temps réel, page certificat halal, dashboard admin. React + Express + Socket.io. Live : [le-poincare.onrender.com](https://le-poincare.onrender.com)
 
-[🌐 Portfolio](https://furax-dev.onrender.com) &nbsp;|&nbsp; [📺 YouTube](https://youtube.com/@furax2204) &nbsp;|&nbsp; [💻 GitHub](https://github.com/furaxdev)
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f91d.svg" width="22" height="22" valign="middle" alt="" /> Connect With Me
+
+[<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="16" height="16" valign="middle" alt="" /> Portfolio](https://furax-dev.onrender.com) &nbsp;|&nbsp; [<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4fa.svg" width="16" height="16" valign="middle" alt="" /> YouTube](https://youtube.com/@furax2204) &nbsp;|&nbsp; [<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="16" height="16" valign="middle" alt="" /> GitHub](https://github.com/furaxdev)
 
 ---
 
-## 🐱 Fun Fact About Me
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f431.svg" width="22" height="22" valign="middle" alt="" /> Fun Fact About Me
 
 I LOOOOVE CATS :3
 
@@ -68,4 +72,4 @@ I LOOOOVE CATS :3
   <img src="https://ascii-cat-svg.onrender.com/visits?colors=green" alt="Views" />
 </p>
 
-<p align="center">✨ <i>Building awesome things, one commit at a time</i> ✨</p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="16" height="16" valign="middle" alt="" /> <i>Building awesome things, one commit at a time</i> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="16" height="16" valign="middle" alt="" /></p>
