@@ -22,7 +22,7 @@ I build modern web applications, intelligent Discord bots & open-source solution
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-<hr>
+<br>
 
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3af.svg" width="22" height="22" valign="middle" alt="" /> Current Stats
 
