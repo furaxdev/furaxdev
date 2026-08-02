@@ -46,7 +46,7 @@ Site vitrine et commande en ligne pour un restaurant : suivi de commande en temp
 
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f91d.svg" width="22" height="22" valign="middle" alt="" /> Connect With Me
 
-[<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="16" height="16" valign="middle" alt="" /> Portfolio](https://furax-dev.onrender.com) &nbsp;|&nbsp; [<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4fa.svg" width="16" height="16" valign="middle" alt="" /> YouTube](https://youtube.com/@furax2204) &nbsp;|&nbsp; [<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="16" height="16" valign="middle" alt="" /> GitHub](https://github.com/furaxdev)
+[<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="16" height="16" valign="middle" alt="" /> Portfolio](https://furax-dev.onrender.com) &nbsp;|&nbsp; [<img src="https://cdn.simpleicons.org/youtube/FF0000" width="16" height="16" valign="middle" alt="" /> YouTube](https://youtube.com/@FuraxDev2) &nbsp;|&nbsp; [<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="16" height="16" valign="middle" alt="" /> GitHub](https://github.com/furaxdev)
 
 ---
 
