@@ -69,7 +69,6 @@ I LOOOOVE CATS :3
 
 <p align="center">
   <img src="https://ascii-cat-svg.onrender.com/quote?colors=green" alt="Cat Fact" /><br/>
-  <img src="https://ascii-cat-svg.onrender.com/visits?colors=green" alt="Views" />
 </p>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="16" height="16" valign="middle" alt="" /> <i>Building awesome things, one commit at a time</i> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="16" height="16" valign="middle" alt="" /></p>
